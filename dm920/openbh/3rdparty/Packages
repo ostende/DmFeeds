@@ -1,3 +1,15 @@
+Package: XtreamTV
+Version: 0.2.3
+Section: extra
+Architecture: all
+Maintainer: www.e2boss.com
+MD5Sum: 429200ad0cd84b66a45514b72d03e293
+Size: 2690262
+Filename: XtreamTV_0.2.3_armv7a.ipk
+Description: Enigma2 Management for Xtream codes powered by E2Boss
+HomePage: http://www.xtream-codes.com
+Priority: optional
+
 Package: enigma2-plugin-extensions-addkey
 Version: 3.2
 Section: base
@@ -56,6 +68,21 @@ Size: 2386
 Filename: enigma2-plugin-extensions-blackout-blind_1.3_all.ipk
 Description: blacks out two lines on top of the screen
 OE: enigma2-plugin-extensions-blackout-blind_1.3_all
+Priority: optional
+
+Package: enigma2-plugin-extensions-boxpirates-panel
+Version: 1.9.0-r5
+Depends: enigma2
+Replaces: initscripts
+Section: extra
+Architecture: all
+Maintainer: BP-Plugin-Team (homes22, zorro69 & King_lotzi)
+MD5Sum: 1faff88d678159dfe3d471165d394aa6
+Size: 1057604
+Filename: enigma2-plugin-extensions-boxpirates-panel_1.9.0-r5_all.ipk
+Source: https://naklardoch.com
+Description: cammanager all
+HomePage: http://www.boxpirates.to
 Priority: optional
 
 Package: enigma2-plugin-extensions-camofs
@@ -125,6 +152,21 @@ OE: Extensions: DreamOSat camManager
 HomePage: https://dreamosat-forum.com
 Priority: optional
 
+Package: enigma2-plugin-extensions-dreamosat-downloader
+Version: 20200808-r6.6
+Depends: curl
+Section: extra
+Architecture: all
+Maintainer: audi06_19  <audi06_19@hotmail.com>
+MD5Sum: d8845919967276d71437cf0b72471429
+Size: 50040
+Filename: enigma2-plugin-extensions-dreamosat-downloader_20200808-r6.6_all.ipk
+Source: https://dreamosat-forum.com
+Description: Extensions Plugins DreamOSat Downloader For Images
+OE: enigma2-plugin-extensions-dreamosat-downloader
+HomePage: https://dreamosat-forum.com
+Priority: optional
+
 Package: enigma2-plugin-extensions-dreamosat-keyupdater
 Version: 20200808-r2.7
 Depends: enigma2
@@ -137,6 +179,21 @@ Filename: enigma2-plugin-extensions-dreamosat-keyupdater_20200808-r2.7_all.ipk
 Source: https://dreamosat-forum.com
 Description: Extensions DreamOSat keyUpdater For E2 Images
 OE: enigma2-plugin-extensions-DreamOSat-keyUpdater
+HomePage: https://dreamosat-forum.com
+Priority: optional
+
+Package: enigma2-plugin-extensions-dreamosat-script
+Version: 20200808-r10.03
+Depends: enigma2
+Section: extra
+Architecture: all
+Maintainer: audi06_19 <audi06_19@hotmail.com>
+MD5Sum: cee57481393ad0cb2714405980b20227
+Size: 307900
+Filename: enigma2-plugin-extensions-dreamosat-script_20200808-r10.03_all.ipk
+Source: https://dreamosat-forum.com
+Description: Extensions DreamOSat Script For E2 Images : console bash shell script
+OE: enigma2-plugin-extensions-dreamosat-script
 HomePage: https://dreamosat-forum.com
 Priority: optional
 
@@ -867,6 +924,17 @@ HomePage: http://www.tunisia-sat.com
 License: CLOSED
 Priority: optional
 
+Package: enigma2-plugin-extensions-tspanel
+Version: 8.1
+Section: extra
+Architecture: all
+Maintainer: Ozcan Goral
+MD5Sum: 1ac3fbc0243600aa25749a91c44fe590
+Size: 2567070
+Filename: enigma2-plugin-extensions-tspanel_8.1_all.ipk
+Description: TSPanel
+Priority: optional
+
 Package: enigma2-plugin-extensions-tstube
 Version: 1.2
 Section: extra
@@ -997,6 +1065,20 @@ Description: xbmc Wetter Plugin
 HomePage: http://www.kashmir-plugins.de
 Priority: optional
 
+Package: enigma2-plugin-extensions-xtraevent
+Version: v2.0
+Section: extra
+Architecture: all
+Maintainer: digiteng
+MD5Sum: 63515e9441af279ab6dfd4b272f59d4d
+Size: 236784
+Filename: enigma2-plugin-extensions-xtraevent_v2.0_all.ipk
+Source: https://github.com/digiteng/plugins-test-/tree/master/xtraEvent%20plugin
+Description: extra materials for events...
+OE: all
+HomePage: https://github.com/digiteng/plugins-test-/tree/master/xtraEvent%20plugin
+Priority: optional
+
 Package: enigma2-plugin-systemplugins-bouquetsprotection
 Version: 0.2-rc1
 Depends: enigma2
@@ -1010,6 +1092,21 @@ Source: http://dream.altmaster.net/
 Description: systemplugins Bouquets Protection.
 OE: enigma2
 HomePage: http://dream.altmaster.net/
+Priority: optional
+
+Package: enigma2-plugin-systemplugins-displayskin
+Version: 4.9-20171209-r1802
+Replaces: enigma2-skin-user.xml-jogi29-grundpaket, enigma2-skin-user.xml-jogi29-skin-all, enigma2-skin-user.xml-jogi29-skin-all-rotator
+Conflicts: enigma2-skin-user.xml-jogi29-grundpaket, enigma2-skin-user.xml-jogi29-skin-all, enigma2-skin-user.xml-jogi29-skin-all-rotator
+Section: extra
+Architecture: all
+Maintainer: jogi29
+MD5Sum: 87eed9d182fc9ef42826e982b10c442c
+Size: 1279518
+Filename: enigma2-plugin-systemplugins-displayskin_4.9-20171209-r1802_all.ipk
+Source: https://svn.code.sf.net/p/opendreambox-addons/svn/plugins/OE2.0/trunk/DisplaySkin/
+Description: DisplaySkin for Colordisplays
+HomePage: www.ihad.tv
 Priority: optional
 
 Package: enigma2-plugin-systemplugins-extnumberzap

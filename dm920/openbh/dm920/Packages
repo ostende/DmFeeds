@@ -346,8 +346,8 @@ Recommends: gstreamer1.0-dbg, libavahi-client-dbg, libavahi-common-dbg, libc6-db
 Section: devel
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: b4bfee5c05a4e0a23f733dc6efcccee4
-Size: 24288
+MD5Sum: f4341f103f59bb02b52863e320ad2fa1
+Size: 24292
 Filename: enigma2-dbg_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions - Debugging files
@@ -362,8 +362,8 @@ Recommends: aio-grab-dev, alsa-conf-dev, avahi-dev, cdrkit-dev, dvd+rw-tools-dev
 Section: devel
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 8db189d7c176ef23f22d652132d506a2
-Size: 100708
+MD5Sum: 1ffbcf39d0ed141a8e08cb6d0bc4763b
+Size: 100742
 Filename: enigma2-dev_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions - Development files
@@ -404,8 +404,8 @@ Version: 4.4+git9+4322b92-r0
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 8b671ee0bf47b7217a25a597fc3da897
-Size: 634406
+MD5Sum: 45c4dc6342dbd12f85c7baa6fb22da5a
+Size: 634246
 Filename: enigma2-fonts_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions
@@ -419,8 +419,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: fc38708af52094183338eeee99429070
-Size: 19102
+MD5Sum: 6cdf0e54cec9cd64215355ee37e783e2
+Size: 19086
 Filename: enigma2-locale-ar_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: ar
@@ -434,8 +434,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e4e31225247567711509b079c2abcf01
-Size: 17172
+MD5Sum: 3a5a2778832fcd3c4b8ecae0c73cb042
+Size: 17180
 Filename: enigma2-locale-bg_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: bg
@@ -449,8 +449,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 0644e3bddc6fd4e683558a2f9fb64258
-Size: 8992
+MD5Sum: 3bbb5da2d0cf18f29a9f4b0af66428ee
+Size: 8984
 Filename: enigma2-locale-ca_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: ca
@@ -464,8 +464,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 870e730e4cef1d22822dfde6bb17aee4
-Size: 34928
+MD5Sum: 8aaa482ca75a5e205c7e63fcec6e0316
+Size: 34884
 Filename: enigma2-locale-cs_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: cs
@@ -479,8 +479,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: d19ac26eed2f83ebd20c52699980fbdf
-Size: 23782
+MD5Sum: 9fd6765c9de3a985b8f0a29bbfba6cde
+Size: 23768
 Filename: enigma2-locale-da_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: da
@@ -494,8 +494,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 995eda0361add1555c9c26e9592bdbc0
-Size: 68854
+MD5Sum: d79ff12de5b23dc3d95a8d1f5d403e6b
+Size: 68848
 Filename: enigma2-locale-de_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: de
@@ -509,8 +509,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: d92c13f06f277a35074a489428e4c17d
-Size: 25732
+MD5Sum: b9d17e9954b02c5569efdb2212b0e46c
+Size: 25736
 Filename: enigma2-locale-el_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: el
@@ -524,8 +524,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 30e86dc06fda9852e3e0260870182a7d
-Size: 44228
+MD5Sum: 1f52e5ba171aa329fb27ae0af896d6bb
+Size: 44222
 Filename: enigma2-locale-en-au_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: en-au
@@ -539,8 +539,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 63fbb1f8eae5c8b943d1e3b734eed0a0
-Size: 44304
+MD5Sum: c38c639a3d4d9228a3eec6171a60dc13
+Size: 44310
 Filename: enigma2-locale-en-gb_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: en-gb
@@ -554,8 +554,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 917b5f9b920c767ddb13af20336ac0f7
-Size: 35858
+MD5Sum: 60ea424f34115079ad1d24a2571fee02
+Size: 35856
 Filename: enigma2-locale-en_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: en
@@ -569,8 +569,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 8496f7cbc8cc856ae3947c54d2757903
-Size: 50692
+MD5Sum: fd665489e48589e99678de8464d7b712
+Size: 50696
 Filename: enigma2-locale-es_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: es
@@ -584,8 +584,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 8815a4ca49ba018dbc47d23331784408
-Size: 92172
+MD5Sum: e5a96a8bb4a266f038959f79c25e7dcf
+Size: 92168
 Filename: enigma2-locale-et_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: et
@@ -599,8 +599,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: bfe318aa4adc2f46cfda0983e51bbb0c
-Size: 20170
+MD5Sum: 7a7f963f317090dd0aa858bff9f3b4c0
+Size: 20142
 Filename: enigma2-locale-fa_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: fa
@@ -614,8 +614,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 36bf36d2c716ae22a905136dde8d1388
-Size: 69054
+MD5Sum: 867c938dcd4021084fc6ab785c716840
+Size: 69070
 Filename: enigma2-locale-fi_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: fi
@@ -629,8 +629,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: bfbe0f661541f8f6603dbad8ecd2aa18
-Size: 98070
+MD5Sum: cd07f8cdece7ea7a84ea0579135ecf58
+Size: 98058
 Filename: enigma2-locale-fr_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: fr
@@ -644,8 +644,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 76d529b731c31dc44dc7f083db79ea38
-Size: 15362
+MD5Sum: 65cf98f79a6987fecd8300583dd84a38
+Size: 15342
 Filename: enigma2-locale-fy_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: fy
@@ -659,8 +659,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 196e14660af9bdf3d1d0a1c3538edb4b
-Size: 15984
+MD5Sum: 6b85cfafbffb1227edea599d589bccd3
+Size: 16002
 Filename: enigma2-locale-he_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: he
@@ -674,7 +674,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 6394294f5606ea10ad9f09b7379f034b
+MD5Sum: 3eb3c2449e6cf919fde20584853827d8
 Size: 10250
 Filename: enigma2-locale-hr_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -689,8 +689,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: be0ffcc65f76f0fc3be1460c8d08c361
-Size: 23852
+MD5Sum: ef9515e205a6b2c98b3fa5b661185195
+Size: 23840
 Filename: enigma2-locale-hu_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: hu
@@ -704,8 +704,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 4c30677257b9c2cb0c8a94265ac195a1
-Size: 21896
+MD5Sum: dd84ee59bd62d7fe90f6ff7597b9f63e
+Size: 21900
 Filename: enigma2-locale-is_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: is
@@ -719,8 +719,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: a481a62b6a05ffac6dd059be3d761bd9
-Size: 95206
+MD5Sum: 2e4dee0dcd0c03c5765345df6783e247
+Size: 95028
 Filename: enigma2-locale-it_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: it
@@ -734,8 +734,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f239f919c143a107e80dcda40fecd6c6
-Size: 24566
+MD5Sum: 39381b73950c8c8ffb02ac6da2e7b34a
+Size: 24564
 Filename: enigma2-locale-ku_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: ku
@@ -749,8 +749,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 3dc331d7c2d13175563c8a9b610b5daa
-Size: 99378
+MD5Sum: 0f2122f1ed69a992db19e8719b48c878
+Size: 99412
 Filename: enigma2-locale-lt_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: lt
@@ -764,8 +764,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 4d8ad8772da3642c249dc6ae330d557b
-Size: 17074
+MD5Sum: 13b9079548418deb24af51e4ac95e8c3
+Size: 17056
 Filename: enigma2-locale-lv_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: lv
@@ -823,8 +823,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 9153c936de0d06ca06718d26181d44cc
-Size: 1102
+MD5Sum: cb98abb3202db5458b45f66139d31b11
+Size: 1100
 Filename: enigma2-locale-nb_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: nb
@@ -838,8 +838,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: d8217eec6f65bf01b5582588f03e1397
-Size: 68890
+MD5Sum: cefd2f7f1f85bf0580a884e5b6bc4b63
+Size: 68884
 Filename: enigma2-locale-nl_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: nl
@@ -853,8 +853,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 09079056db14d5284ee8b2ad756264d2
-Size: 56734
+MD5Sum: 592334cd2284689ce0d3b3374192ec38
+Size: 56756
 Filename: enigma2-locale-no_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: no
@@ -868,8 +868,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: d9c6f2cd3d333b732cd0e4d062f267c4
-Size: 24634
+MD5Sum: 88e7330bd72c97af3a99736ee4730a41
+Size: 24632
 Filename: enigma2-locale-pl_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: pl
@@ -883,8 +883,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 08fbccb58980c4321626cd8a94029f8f
-Size: 34984
+MD5Sum: 3a58d43189e051de1eea27450381ef03
+Size: 35006
 Filename: enigma2-locale-pt-br_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: pt-br
@@ -898,8 +898,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 762b07874a57190d14db12cb3386e109
-Size: 70466
+MD5Sum: e45bdf67be5919808d1f73acf0577187
+Size: 70444
 Filename: enigma2-locale-pt_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: pt
@@ -913,8 +913,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 2c71bae3f39e1b633c7811dda2c2ac10
-Size: 16890
+MD5Sum: 65fc4db51d57d0a021aa6410142dafb2
+Size: 16896
 Filename: enigma2-locale-ro_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: ro
@@ -928,8 +928,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 8a6db7735e45ad95f395fc9acf828690
-Size: 113780
+MD5Sum: 9005d6252ddb6b59e88e35cc51cc4c08
+Size: 113776
 Filename: enigma2-locale-ru_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: ru
@@ -943,8 +943,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 401825d5ca2a6ab2461e78d94cc796fd
-Size: 59472
+MD5Sum: 3b2d1c38a849c6fbded933981c05b6d0
+Size: 59464
 Filename: enigma2-locale-sk_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: sk
@@ -958,8 +958,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 695f62e40ca5e2d7f271a4cd317513ec
-Size: 23716
+MD5Sum: fd8070b3514b250e5b689fabbca22cc0
+Size: 23728
 Filename: enigma2-locale-sl_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: sl
@@ -973,8 +973,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 2931304dd50f0e5bd460df9126e58c54
-Size: 22012
+MD5Sum: 9939fa4889c3c17babf8ac2f24df6b3c
+Size: 21998
 Filename: enigma2-locale-sr_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: sr
@@ -988,8 +988,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 0d6af9d004215bfac066927b942659f8
-Size: 54920
+MD5Sum: 4ef1e0bf816d3290c31149d8b0056e76
+Size: 54930
 Filename: enigma2-locale-sv_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: sv
@@ -1003,8 +1003,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: ff1b8243fda285346742e7bb9b56cf84
-Size: 20340
+MD5Sum: 09902056175fd97ef7028593fb1df4e5
+Size: 20322
 Filename: enigma2-locale-th_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: th
@@ -1018,8 +1018,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e1d52cc4d30abbe1b510ae8772599aeb
-Size: 52432
+MD5Sum: 80107d54cfea288fec302cedf614cfdd
+Size: 52438
 Filename: enigma2-locale-tr_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: tr
@@ -1033,8 +1033,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e1cf85bc7dbc66c391d4df85efd33556
-Size: 19148
+MD5Sum: a932aa2ecb758b36c705749162f07f6c
+Size: 19128
 Filename: enigma2-locale-uk_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: uk
@@ -1048,8 +1048,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: be760b67c83aea31f6567e844d4555ca
-Size: 84112
+MD5Sum: 412eeee22fb044bf2d08f98dc9e0a253
+Size: 84096
 Filename: enigma2-locale-zh-cn_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: zh-cn
@@ -1062,7 +1062,7 @@ Version: 4.4+git9+4322b92-r0
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 3084d33ac75099e15ad2ce684757a0f5
+MD5Sum: 3ace41b67eee9113a2799dbf2f5aaccd
 Size: 3878
 Filename: enigma2-meta_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -1570,7 +1570,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e7490c2838e0599afe7b598ec2ede45c
+MD5Sum: 65524a4442ac2721df2d15191c9e649a
 Size: 4710
 Filename: enigma2-plugin-extensions-cutlisteditor-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -1585,8 +1585,8 @@ Depends: aio-grab, enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f1de3a0ab319c544776bd8583f94b1f8
-Size: 6760
+MD5Sum: 70cef75e0d5ecd0353af5c3a24cd1312
+Size: 6762
 Filename: enigma2-plugin-extensions-cutlisteditor_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-cutlisteditor
@@ -1794,8 +1794,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 6b021f88a3b176ea2e6ae7a5ff9ae7f9
-Size: 21874
+MD5Sum: c96ea4dff2b5c43206f4ee1d6344c29d
+Size: 21882
 Filename: enigma2-plugin-extensions-dvdburn-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn (source files)
@@ -1809,8 +1809,8 @@ Depends: cdrkit, dvd+rw-tools, dvdauthor, enigma2, mjpegtools, python-imaging, r
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 228180b437a1c1cbcdc199bb6e8617b7
-Size: 797830
+MD5Sum: badb3bc1b3dbc1466b8a863407b8c3f9
+Size: 797782
 Filename: enigma2-plugin-extensions-dvdburn_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-dvdburn
@@ -1824,7 +1824,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f0aac479cfcd11b2fa811e2cb14eccbc
+MD5Sum: 2f76207ac7395be744e2d5399678f85f
 Size: 1888
 Filename: enigma2-plugin-extensions-dvdplayer-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -1839,7 +1839,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f87e4b6cafd4460eedd352ba7bc76722
+MD5Sum: fee6c79ce624bf6b7442bdcf99a6c183
 Size: 2556
 Filename: enigma2-plugin-extensions-dvdplayer_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -2587,8 +2587,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 698b052674dac01ec300dcc3724956ed
-Size: 11126
+MD5Sum: 74c90810016f8e4793ab5268cdd501d2
+Size: 11122
 Filename: enigma2-plugin-extensions-mediaplayer-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer (source files)
@@ -2602,8 +2602,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f3517443a25c962bfc30bf65c9b2fd48
-Size: 20564
+MD5Sum: 1fddd2df6bb723eafd970e7eae53a675
+Size: 20566
 Filename: enigma2-plugin-extensions-mediaplayer_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-mediaplayer
@@ -2617,7 +2617,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 6eda701f46700f3954956fd014c4393e
+MD5Sum: b8b981fa0050bbf24fdb0760dc955112
 Size: 2450
 Filename: enigma2-plugin-extensions-mediascanner-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -2632,7 +2632,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e5e6ce5baf3d93f04a1964a9e146edae
+MD5Sum: 93547634fdde0e3e8c04b71a663e2ec3
 Size: 5962
 Filename: enigma2-plugin-extensions-mediascanner_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -3095,8 +3095,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: b6fd379444f5f38b82d7fff6eb1001d6
-Size: 6682
+MD5Sum: 5e0980f6949851faca3b86b5d01db228
+Size: 6678
 Filename: enigma2-plugin-extensions-pictureplayer-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer (source files)
@@ -3110,8 +3110,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 7e286cd32d75eebfa08ed516e7ccf7a3
-Size: 27072
+MD5Sum: f0e6a2f634ee1f9e178256f8a7fd3d87
+Size: 27070
 Filename: enigma2-plugin-extensions-pictureplayer_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-pictureplayer
@@ -3544,8 +3544,8 @@ Recommends: gstreamer1.0-dbg, libavahi-client-dbg, libavahi-common-dbg, libc6-db
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 25ce7a1d37206bb74b478f7059fb828c
-Size: 7916132
+MD5Sum: bca8f11b201ec634b4be93dcae61b3b0
+Size: 7916176
 Filename: enigma2-plugin-extensions-socketmmi-dbg_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (debug)
@@ -3559,7 +3559,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 47e409f7389f5bebd767a5f5687577cc
+MD5Sum: c1f944644ec22010fe92604301d53e47
 Size: 1498
 Filename: enigma2-plugin-extensions-socketmmi-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -3574,8 +3574,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 3c1098bdf2274331ca98add5aa5f6cca
-Size: 286388
+MD5Sum: 4cfa60debc093aa492e3b809e904d15e
+Size: 286374
 Filename: enigma2-plugin-extensions-socketmmi-staticdev_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi (static development)
@@ -3589,8 +3589,8 @@ Depends: enigma2, libc6 (>= 2.30), libgcc1 (>= 9.2.0), libstdc++6 (>= 9.2.0), li
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 7797e279cc009f4c414d75a667c6d4ed
-Size: 8780
+MD5Sum: 1336f08a2ef943cce79dfe3b6d39fb36
+Size: 8776
 Filename: enigma2-plugin-extensions-socketmmi_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-socketmmi
@@ -3753,8 +3753,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 09c09baa43aa0b233f76d94806c6de23
-Size: 1854
+MD5Sum: aa39c7d44a78ae7143e6995f49f2d68f
+Size: 1852
 Filename: enigma2-plugin-extensions-tuxboxplugins-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-tuxboxplugins (source files)
@@ -3768,8 +3768,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 7d41bbe93e4161176b934585b59b53f0
-Size: 4204
+MD5Sum: ce8541de5f8add8f4adb60b67ad76e95
+Size: 4210
 Filename: enigma2-plugin-extensions-tuxboxplugins_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: extensions-tuxboxplugins
@@ -3931,8 +3931,8 @@ Version: 4.4+git9+4322b92-r0
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e3632680ca4182acbfd8fa26113bff18
-Size: 1544474
+MD5Sum: 195e15b4efcc85364dbfdefb43b7c4f8
+Size: 1545054
 Filename: enigma2-plugin-font-wqy-microhei_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions
@@ -4843,8 +4843,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: ec657365ac08ba1901a84772b7fd07e8
-Size: 6256
+MD5Sum: 78a8c09e7e2d54e9fce56a08706080f5
+Size: 6254
 Filename: enigma2-plugin-systemplugins-commoninterfaceassignment-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-commoninterfaceassignment (source files)
@@ -4858,7 +4858,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 2e78d1f8769c88a4ad0224e114b25e23
+MD5Sum: 41ef5fc7624e760a0231a8c95dd8ab10
 Size: 9648
 Filename: enigma2-plugin-systemplugins-commoninterfaceassignment_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -4938,7 +4938,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 486fabb77f1837f6d0cd91ba81fbaac6
+MD5Sum: bf4eee33c569e1783c459e11266b8115
 Size: 2646
 Filename: enigma2-plugin-systemplugins-defaultservicesscanner-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -4953,7 +4953,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 5d2ec4a727b252c8b576fee1c4a15ade
+MD5Sum: f168870b2915cb4838fad11031f2f349
 Size: 3354
 Filename: enigma2-plugin-systemplugins-defaultservicesscanner_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -4968,8 +4968,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 3ad3e60f02792b8ac278ef4cc678fa17
-Size: 6522
+MD5Sum: 881414bbf12bb7b0fac3c165f2283685
+Size: 6518
 Filename: enigma2-plugin-systemplugins-diseqctester-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester (source files)
@@ -4983,8 +4983,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: cbbd57b2fd23a3b677f6e0c8e286cc6d
-Size: 8726
+MD5Sum: 0c15af7b3f2790103053dc925a5ecce8
+Size: 8730
 Filename: enigma2-plugin-systemplugins-diseqctester_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-diseqctester
@@ -4998,7 +4998,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: bf5c4899f251782b0e6ac028f99acc67
+MD5Sum: 43166c856478b7b0d10fc181089d818e
 Size: 4972
 Filename: enigma2-plugin-systemplugins-fastscan-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -5013,8 +5013,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: beb01c3e030ccbc87b8c3c7cda8e0d3b
-Size: 7536
+MD5Sum: 4dd1ccd2720e14cd00219e47b1c7848c
+Size: 7530
 Filename: enigma2-plugin-systemplugins-fastscan_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-fastscan
@@ -5058,8 +5058,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: c13488836dd81cc1e6ba3dc08d1992af
-Size: 2346
+MD5Sum: f411d0764425cf0742046f400ecfe660
+Size: 2348
 Filename: enigma2-plugin-systemplugins-hdmicec-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec (source files)
@@ -5073,8 +5073,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 956a267c068273a4a3a5659b523c86a3
-Size: 3172
+MD5Sum: 6d38e1ed72c3f8ccbd256d65e045f14b
+Size: 3176
 Filename: enigma2-plugin-systemplugins-hdmicec_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-hdmicec
@@ -5088,8 +5088,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 2785fd6133fc5cdeb7091d37c1cacbe6
-Size: 2042
+MD5Sum: ee800dedc245342f784d7becf5bfc9a3
+Size: 2046
 Filename: enigma2-plugin-systemplugins-hotplug-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug (source files)
@@ -5103,8 +5103,8 @@ Depends: enigma2, hotplug-e2-helper
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 294f329a8660d2c1a7a18d7cb89ff500
-Size: 2648
+MD5Sum: dbd126d3432f7ccc010b9e561f691ebb
+Size: 2646
 Filename: enigma2-plugin-systemplugins-hotplug_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-hotplug
@@ -5208,7 +5208,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 568636e3d85c37742420fe8eb3d1699c
+MD5Sum: 5cd821156bed2c041a4ac42b8c60d1be
 Size: 4376
 Filename: enigma2-plugin-systemplugins-networkwizard-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -5223,8 +5223,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e26056059fc608d7cc4be4345268940c
-Size: 7494
+MD5Sum: 90e20b2415f4960d62ca85c798f2e6b4
+Size: 7498
 Filename: enigma2-plugin-systemplugins-networkwizard_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-networkwizard
@@ -5267,8 +5267,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: f688d1eccf23e909bf4c4842e7439d17
-Size: 14384
+MD5Sum: 0f0b93ffa255ef13f8ded829ec01c112
+Size: 14374
 Filename: enigma2-plugin-systemplugins-positionersetup-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup (source files)
@@ -5282,8 +5282,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: df97695bde82ae4417eb2f428e14cc18
-Size: 20986
+MD5Sum: 82572c5db8907779912a974ed5aee5c3
+Size: 20978
 Filename: enigma2-plugin-systemplugins-positionersetup_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-positionersetup
@@ -5297,8 +5297,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 001c614694bf62c2e1137009d3d65286
-Size: 2634
+MD5Sum: c6529e07b7d1a204089009c41407a05b
+Size: 2636
 Filename: enigma2-plugin-systemplugins-sabnzbd-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-sabnzbd (source files)
@@ -5312,7 +5312,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: c8977957821de1276b00fe0e46de0311
+MD5Sum: 6eadbd9f68ec79095e5b2b8fa4f1a7ef
 Size: 3672
 Filename: enigma2-plugin-systemplugins-sabnzbd_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -5327,7 +5327,7 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 48213ea15ecfaa1f2bbef0a592c53240
+MD5Sum: eac1adf82627e6b6df5d5643165d258b
 Size: 2150
 Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
@@ -5342,8 +5342,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 04b0f4928e9788b27c47564b01321d1b
-Size: 2860
+MD5Sum: 8e2ae46180171a8a43780e65fc6e2cd7
+Size: 2858
 Filename: enigma2-plugin-systemplugins-satelliteequipmentcontrol_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-satelliteequipmentcontrol
@@ -5357,8 +5357,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 83f4a92e04d1a362ba76fe54ed634170
-Size: 8948
+MD5Sum: c4d54a28642399b6f4f9024bc26d1b25
+Size: 8956
 Filename: enigma2-plugin-systemplugins-satfinder-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder (source files)
@@ -5372,8 +5372,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 54e1a41e0375562c0ed5f6aca2d29b34
-Size: 11770
+MD5Sum: 300409744ed488a5bac4b6f4aa6a31b3
+Size: 11766
 Filename: enigma2-plugin-systemplugins-satfinder_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-satfinder
@@ -5492,8 +5492,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 5bb6da1bf59de8e3be19b97a9850e48c
-Size: 2300
+MD5Sum: 9298b0d4113ce524e8d418ada43855a8
+Size: 2304
 Filename: enigma2-plugin-systemplugins-videoclippingsetup-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup (source files)
@@ -5507,8 +5507,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 47f5d2d6f52a892d5d500ca5f45cca76
-Size: 3042
+MD5Sum: 3ff0cfb85af0e4396533a91da54e8794
+Size: 3038
 Filename: enigma2-plugin-systemplugins-videoclippingsetup_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videoclippingsetup
@@ -5522,8 +5522,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: a890b9986b6f29f099a76af3a5f5446b
-Size: 5620
+MD5Sum: b3de8cd74ecf3317f10680ba5619bb73
+Size: 5626
 Filename: enigma2-plugin-systemplugins-videoenhancement-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement (source files)
@@ -5537,8 +5537,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: ea8df4cfb190c14de4f6ee3ea493a770
-Size: 8466
+MD5Sum: be3abd0133c2348569215754ec5bf2aa
+Size: 8460
 Filename: enigma2-plugin-systemplugins-videoenhancement_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videoenhancement
@@ -5552,8 +5552,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: c6501ba5fada75b3c798380b13f22c4f
-Size: 3584
+MD5Sum: ba6c992b5e32531ac0ef6dc2a53fcb1e
+Size: 3586
 Filename: enigma2-plugin-systemplugins-videotune-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune (source files)
@@ -5567,8 +5567,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 268e83e641b5a694382ee33323199936
-Size: 5220
+MD5Sum: 90798c16f4255972293ee8af15f6256d
+Size: 5224
 Filename: enigma2-plugin-systemplugins-videotune_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-videotune
@@ -5660,8 +5660,8 @@ Depends: enigma2
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 61f0597e31820981fbaa4039503c0aac
-Size: 7516
+MD5Sum: 4323aec8565a32d1634700fec8322624
+Size: 7518
 Filename: enigma2-plugin-systemplugins-wirelesslan-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan (source files)
@@ -5675,8 +5675,8 @@ Depends: enigma2, python-wifi, wireless-tools, wpa-supplicant
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: e6c751868b47971f6c5c21196c059485
-Size: 11072
+MD5Sum: 946a093a4bb39ce39102b336fe5217a6
+Size: 11062
 Filename: enigma2-plugin-systemplugins-wirelesslan_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: systemplugins-wirelesslan
@@ -5794,8 +5794,8 @@ Version: 4.4+git9+4322b92-r0
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: b4047e02a4e9ea46077ca47a6fb95d80
-Size: 2219060
+MD5Sum: 49847f260244a81ee73706d6a28f4ddd
+Size: 2218868
 Filename: enigma2-po_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions
@@ -5836,8 +5836,8 @@ Version: 4.4+git9+4322b92-r0
 Section: devel
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: 130dfa58decf97ed9fc717231ef6b73e
-Size: 511950
+MD5Sum: 6a6f08f935be3295ec0ed780f3854d0e
+Size: 511878
 Filename: enigma2-src_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions - Source files
@@ -5851,8 +5851,8 @@ Depends: enigma2-dev (= 4.4+git9+4322b92-r0)
 Section: devel
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: d54dabf160e7f958b3395f0294f2e71d
-Size: 6616
+MD5Sum: 5e3bf654e23e90e0a7fe7350833057d0
+Size: 6608
 Filename: enigma2-staticdev_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions - Development files (Static Libraries)
@@ -5867,8 +5867,8 @@ Recommends: glib-networking, glibc-gconv-utf-16, gstreamer1.0-plugin-subsink, gs
 Section: base
 Architecture: dm920
 Maintainer: OE-Alliance
-MD5Sum: b43d4deb75f32d36c64af5624ba26cb6
-Size: 1717600
+MD5Sum: b763d638b6c2272850a3dadcc0716f4c
+Size: 1717200
 Filename: enigma2_4.4+git9+4322b92-r0_dm920.ipk
 Source: enigma2.bb
 Description: Enigma2 is an experimental, but useful framebuffer-based frontend for DVB functions
@@ -26075,7 +26075,7 @@ Recommends: avahi-daemon-dbg, bash-dbg, cronie-dbg, dosfstools-dbg, dropbear-dbg
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 0b0ac9bd9731a54a4faa4d06882cdab4
+MD5Sum: 670cbd64908630a839deaae4e002fc9d
 Size: 1080
 Filename: oe-alliance-base-dbg_4.4-r0_dm920.ipk
 Source: oe-alliance-base.bb
@@ -26091,7 +26091,7 @@ Recommends: avahi-daemon-dev, bash-dev, cronie-dev, dosfstools-dev, dropbear-dev
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: b9521eba8f0760f94b5697d6c8785d7e
+MD5Sum: 6a0c174c138c9ec91574982410b9ba3c
 Size: 1104
 Filename: oe-alliance-base-dev_4.4-r0_dm920.ipk
 Source: oe-alliance-base.bb
@@ -26107,8 +26107,8 @@ Recommends: kernel-module-exportfs, kernel-module-fat, kernel-module-msdos, kern
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 6b6a2410bc3814f5aea7cbb8993a686f
-Size: 1058
+MD5Sum: 19701ba3656be3eb29425977eef61018
+Size: 1060
 Filename: oe-alliance-base_4.4-r0_dm920.ipk
 Source: oe-alliance-base.bb
 Description: Base packages require for image.
@@ -26117,32 +26117,32 @@ License: MIT
 Priority: optional
 
 Package: oe-alliance-branding-dbg
-Version: 4.4+git915+881d27a-r20201221-dm920
+Version: 4.4+git915+881d27a-r20201222-dm920
 Recommends: libc6-dbg
 Section: devel
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 2180a212ff2e30d14d1d9bd03eea693d
-Size: 66764
-Filename: oe-alliance-branding-dbg_4.4+git915+881d27a-r20201221-dm920_dm920.ipk
+MD5Sum: 2479ff3e61c8bcbe45a191ad4ebc1de0
+Size: 66582
+Filename: oe-alliance-branding-dbg_4.4+git915+881d27a-r20201222-dm920_dm920.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201221-dm920 - Debugging files
+Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201222-dm920 - Debugging files
 OE: oe-alliance-branding
 License: GPLv2+
 Priority: optional
 
 Package: oe-alliance-branding-dev
-Version: 4.4+git915+881d27a-r20201221-dm920
-Depends: oe-alliance-branding (= 4.4+git915+881d27a-r20201221-dm920)
+Version: 4.4+git915+881d27a-r20201222-dm920
+Depends: oe-alliance-branding (= 4.4+git915+881d27a-r20201222-dm920)
 Recommends: libc6-dev, python-dev
 Section: devel
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 9b9d3d51a0f82b5cf1490383f3d6fee0
+MD5Sum: 1a918f02c6284f99afe40b11242aa8fb
 Size: 792
-Filename: oe-alliance-branding-dev_4.4+git915+881d27a-r20201221-dm920_dm920.ipk
+Filename: oe-alliance-branding-dev_4.4+git915+881d27a-r20201222-dm920_dm920.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201221-dm920 - Development files
+Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201222-dm920 - Development files
 OE: oe-alliance-branding
 License: GPLv2+
 Priority: optional
@@ -26152,8 +26152,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 849a97df06bc12eb2516c77c515ac897
-Size: 92812
+MD5Sum: e3f2db2b98fb0d6658d87b3dfd01002f
+Size: 92816
 Filename: oe-alliance-branding-remote-amiko1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: amiko1 (Additional remote for enigma2)
@@ -26166,7 +26166,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 37d6d2409df9da20e4a2749b0a7c45ea
+MD5Sum: 0254e6a43b3d5e947b18eb90308e1cda
 Size: 118060
 Filename: oe-alliance-branding-remote-amiko2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26180,8 +26180,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7edc9cee3ebd35106f53025db5bb0d8d
-Size: 42600
+MD5Sum: ceb649c43f3c69ecfb4637e52a25f05b
+Size: 42596
 Filename: oe-alliance-branding-remote-amiko3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: amiko3 (Additional remote for enigma2)
@@ -26194,8 +26194,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 10fa03de91bd31355fed72d711dd40e8
-Size: 54148
+MD5Sum: b1118bb1dc35cf5425581b4653eb155c
+Size: 54144
 Filename: oe-alliance-branding-remote-amiko4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: amiko4 (Additional remote for enigma2)
@@ -26208,7 +26208,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 328bd5744dc45eb26822715efb819ff9
+MD5Sum: e5972d28ac13f4c2ca64dbf855d1b4ac
 Size: 112096
 Filename: oe-alliance-branding-remote-amiko5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26222,8 +26222,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 88b51a88ddfd98f5483e22dc8369f071
-Size: 53588
+MD5Sum: cc09deff46555f939363e9137764a7fe
+Size: 53584
 Filename: oe-alliance-branding-remote-amiko6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: amiko6 (Additional remote for enigma2)
@@ -26236,8 +26236,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c133b6ddd4fe58cfada556d47448525f
-Size: 80434
+MD5Sum: eec2b61ff49c7fca5bad05067c3be4a4
+Size: 80436
 Filename: oe-alliance-branding-remote-anadol1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: anadol1 (Additional remote for enigma2)
@@ -26250,8 +26250,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: baf29e5585125cace7ee497d12de2ce0
-Size: 46058
+MD5Sum: 62c86fc33a096373d6bf6818da8f23a0
+Size: 46052
 Filename: oe-alliance-branding-remote-anadol2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: anadol2 (Additional remote for enigma2)
@@ -26264,8 +26264,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 4681c3e41c6a76d62fdff6c94eff9190
-Size: 37890
+MD5Sum: 31bd59bc5e0e9f04eaddacd0e43d1855
+Size: 37892
 Filename: oe-alliance-branding-remote-anadol3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: anadol3 (Additional remote for enigma2)
@@ -26278,8 +26278,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 96645a762191008f953449535d67584a
-Size: 44052
+MD5Sum: 22e1f7fd344fd15bea85e6f3a5c9763f
+Size: 44056
 Filename: oe-alliance-branding-remote-ariva_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ariva (Additional remote for enigma2)
@@ -26292,8 +26292,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 137386a6887e75bb0c9f51fe2bebacc6
-Size: 40102
+MD5Sum: 299e24ab5cd952cafb6a2be247afb4ad
+Size: 40094
 Filename: oe-alliance-branding-remote-ax1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ax1 (Additional remote for enigma2)
@@ -26306,8 +26306,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: aa5ab152807b3d04b8a30e4b302564d2
-Size: 99510
+MD5Sum: 29cef3df43fb4a643511304c78c10e58
+Size: 99506
 Filename: oe-alliance-branding-remote-ax2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ax2 (Additional remote for enigma2)
@@ -26320,8 +26320,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d51e5fdaa72d57a023e4850e3b52fd7a
-Size: 33238
+MD5Sum: 6d6141924565d3cbc199d1862350e352
+Size: 33234
 Filename: oe-alliance-branding-remote-ax3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ax3 (Additional remote for enigma2)
@@ -26334,7 +26334,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 11ddbf87004dd9235a91ca08c5d2fdc9
+MD5Sum: b80dc39ebe85e71eb0d2af4430d9552e
 Size: 29510
 Filename: oe-alliance-branding-remote-ax4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26348,8 +26348,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e606ef478b602b78d1518317b09fb55a
-Size: 73792
+MD5Sum: 9a430130a912e580bce6f28a9cb77581
+Size: 73804
 Filename: oe-alliance-branding-remote-ax51_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ax51 (Additional remote for enigma2)
@@ -26362,7 +26362,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 3eb5a92f2c51c1c2d86f6cfaacc917f9
+MD5Sum: a0aec6efdd8a901cd9e47e3b8fc7230e
 Size: 96970
 Filename: oe-alliance-branding-remote-ax5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26376,8 +26376,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7bbb227b7c9d076fe87c07ae24bc81c5
-Size: 70720
+MD5Sum: dfdbcd3379f27304b28f6de40ced0371
+Size: 70728
 Filename: oe-alliance-branding-remote-axas1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: axas1 (Additional remote for enigma2)
@@ -26390,8 +26390,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 5ecfb430de8920114c6e84b69a8cd8ca
-Size: 57942
+MD5Sum: 9074e648141dd9dc42dcca787fdc8e0f
+Size: 57944
 Filename: oe-alliance-branding-remote-axas2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: axas2 (Additional remote for enigma2)
@@ -26404,8 +26404,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 31f9c609942aae35aa53c107cc561717
-Size: 39634
+MD5Sum: df0ad388c14bb6da86a2db4759a9ba93
+Size: 39636
 Filename: oe-alliance-branding-remote-axas3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: axas3 (Additional remote for enigma2)
@@ -26418,8 +26418,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 9901f70f85a5af880d1c596c8d79833e
-Size: 49122
+MD5Sum: 5d36152494fc4c8d54b0eefc53bdaf15
+Size: 49126
 Filename: oe-alliance-branding-remote-azboxelite_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: azboxelite (Additional remote for enigma2)
@@ -26432,8 +26432,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 89a0f39e190ff0880ea1751f11de5a4a
-Size: 38996
+MD5Sum: a7aca57bf856f2e97d822462f7a92262
+Size: 39000
 Filename: oe-alliance-branding-remote-azboxhd_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: azboxhd (Additional remote for enigma2)
@@ -26446,7 +26446,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7adb45e75174cb13140270c6a2e457f7
+MD5Sum: 06bf3674e5534a6d3d019e3bf0dc3a2c
 Size: 23352
 Filename: oe-alliance-branding-remote-azboxme_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26460,8 +26460,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 6263f7b04cf15d53f65940de1ccc914a
-Size: 35412
+MD5Sum: 2fe472e8d0bed71aa8e761cb7d13210a
+Size: 35420
 Filename: oe-alliance-branding-remote-beyonwiz1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: beyonwiz1 (Additional remote for enigma2)
@@ -26474,8 +26474,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 4fd4b47ef8c9146d844c4f210a17543d
-Size: 53442
+MD5Sum: ca639ad2eb4b0e12acbcd7520df8f2ab
+Size: 53440
 Filename: oe-alliance-branding-remote-beyonwiz2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: beyonwiz2 (Additional remote for enigma2)
@@ -26488,8 +26488,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: fa8baf4f16e8714aa7892fa1f3983f3e
-Size: 35114
+MD5Sum: 26736e01b08d96b7b95bacfce22cc802
+Size: 35118
 Filename: oe-alliance-branding-remote-cc1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: cc1 (Additional remote for enigma2)
@@ -26502,8 +26502,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 241d04d24760ea487949aff9910ac471
-Size: 47076
+MD5Sum: 6120d29ce84b29821d9a6da99272817c
+Size: 47080
 Filename: oe-alliance-branding-remote-cube_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: cube (Additional remote for enigma2)
@@ -26516,7 +26516,7 @@ Version: 4.4+git915+881d27a-r0
 Section: devel
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 35c3d68de6d797a050c13ebe180a273f
+MD5Sum: 89095888addf0c1669842fc4d2339473
 Size: 748
 Filename: oe-alliance-branding-remote-dbg_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26532,7 +26532,7 @@ Recommends: python-dev
 Section: devel
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: eaaeeb77879a5120147520cc7e02f90a
+MD5Sum: 2ebb709063179b49d66e5facc23a429f
 Size: 796
 Filename: oe-alliance-branding-remote-dev_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26546,8 +26546,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d79b4a39144de278c470538263584d77
-Size: 67482
+MD5Sum: 8981a7175f2df5c9dc90816827d2d394
+Size: 67490
 Filename: oe-alliance-branding-remote-dinobot_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: dinobot (Additional remote for enigma2)
@@ -26560,8 +26560,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 2c492b2cae05b7bf2207ad08abdfdca8
-Size: 35516
+MD5Sum: 71ecc4e4da8c90d21fd6f6aef234c578
+Size: 35520
 Filename: oe-alliance-branding-remote-e3hd_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: e3hd (Additional remote for enigma2)
@@ -26574,8 +26574,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 345efc67084f54bc17d68676621496e4
-Size: 37656
+MD5Sum: 9a371ca1f081910acb120a92bf047261
+Size: 37652
 Filename: oe-alliance-branding-remote-e4hd_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: e4hd (Additional remote for enigma2)
@@ -26588,8 +26588,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e4146f612ea0cb9fce2aa549dab215d7
-Size: 18998
+MD5Sum: 84e49d5f30a741e8c21eff0623b95e27
+Size: 19004
 Filename: oe-alliance-branding-remote-e4hdcombo_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: e4hdcombo (Additional remote for enigma2)
@@ -26602,8 +26602,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e9e359cb71b85bf37203addce7b7e028
-Size: 30136
+MD5Sum: 5ef6bab6093a09284c985e372f981935
+Size: 30132
 Filename: oe-alliance-branding-remote-ebox5000_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ebox5000 (Additional remote for enigma2)
@@ -26616,8 +26616,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ab61c77d7861b1424e487e61d9cd34dd
-Size: 63996
+MD5Sum: 0f0f8394941e8ade6b0833dd059caa29
+Size: 63994
 Filename: oe-alliance-branding-remote-edision1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: edision1 (Additional remote for enigma2)
@@ -26630,8 +26630,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e684c6b7276b362966fa7add11dab844
-Size: 45538
+MD5Sum: d38e60b376a6f46cbcaa8cace404f3a2
+Size: 45546
 Filename: oe-alliance-branding-remote-edision2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: edision2 (Additional remote for enigma2)
@@ -26644,8 +26644,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c8973267154aa54707954f4227e5ab98
-Size: 60148
+MD5Sum: cc05ddbcbd843fa10df1f652343779b8
+Size: 60158
 Filename: oe-alliance-branding-remote-edision3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: edision3 (Additional remote for enigma2)
@@ -26658,8 +26658,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e8873360a82c2d486062b9c514d6290b
-Size: 53772
+MD5Sum: 5e819734ff16284d72c207ff1bce70cc
+Size: 53774
 Filename: oe-alliance-branding-remote-et4x00_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: et4x00 (Additional remote for enigma2)
@@ -26672,7 +26672,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c50067ef65ec30aea8ff2c39abf4fb8f
+MD5Sum: 80c8706a27d247e8d77f06e4d4203877
 Size: 22918
 Filename: oe-alliance-branding-remote-et6500_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26686,8 +26686,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 9d55e170d0de4630c12d04720756f19e
-Size: 20602
+MD5Sum: 96a4d9daa5c760b2486e5962da13f64b
+Size: 20598
 Filename: oe-alliance-branding-remote-et6x00_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: et6x00 (Additional remote for enigma2)
@@ -26700,8 +26700,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: f37334ef0a6abfe2f28db8af8315024a
-Size: 105906
+MD5Sum: 7c973996a1895d2d970f860e13453877
+Size: 105910
 Filename: oe-alliance-branding-remote-et7x00_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: et7x00 (Additional remote for enigma2)
@@ -26714,7 +26714,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b2c7b90358625b0e61da9595b9c3d47a
+MD5Sum: 82d14f5aca106ae7f06839fe09d311f4
 Size: 105700
 Filename: oe-alliance-branding-remote-et7x00mini_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26728,7 +26728,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 2653a23164216621f1a53eb718c6f0af
+MD5Sum: 1ac2d42f85e6804e9b15e096ffa88640
 Size: 32414
 Filename: oe-alliance-branding-remote-et8000_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26742,8 +26742,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 3399639e6c8097ed5e60a1039362d36d
-Size: 16132
+MD5Sum: 29c9dd89d9a9654b58943b57df8b9d89
+Size: 16134
 Filename: oe-alliance-branding-remote-et9500_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: et9500 (Additional remote for enigma2)
@@ -26756,7 +26756,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: fec344c875deb008a4214c34467399a3
+MD5Sum: dec19dd7aaae37e80f883e63fdb5e448
 Size: 13710
 Filename: oe-alliance-branding-remote-et9x00_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26770,8 +26770,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 717fec600889624f4d9e96741c6ea314
-Size: 37220
+MD5Sum: ef46d236b98e39b7087329351533b4fe
+Size: 37212
 Filename: oe-alliance-branding-remote-evo1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: evo1 (Additional remote for enigma2)
@@ -26784,8 +26784,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 10c923c19d367d0194d58955c06280ea
-Size: 34424
+MD5Sum: 8863d9bf6aea2b673812e1d4060ef37d
+Size: 34428
 Filename: oe-alliance-branding-remote-evo2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: evo2 (Additional remote for enigma2)
@@ -26798,7 +26798,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 6b736baeed7ad7668fed3943ab6b4b67
+MD5Sum: 537469ecc7a3458ad9e8653fdfed3886
 Size: 29852
 Filename: oe-alliance-branding-remote-evo3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26812,7 +26812,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 62a8acaeaa1cad1b2d1276c727f71adb
+MD5Sum: 4ed7b0834635885bbcb4c4f5b9c5fc4c
 Size: 66072
 Filename: oe-alliance-branding-remote-evo4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26826,8 +26826,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7a7e7061501471196de7544f31f4526f
-Size: 99752
+MD5Sum: 623ca39f6551a8a0e263405cce2e9281
+Size: 99756
 Filename: oe-alliance-branding-remote-evo5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: evo5 (Additional remote for enigma2)
@@ -26840,7 +26840,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 0a3ff7dac57c893b0b2baf47a8dfc9af
+MD5Sum: 9458d6d86b5a4b26f40f4d3fb3bf91ac
 Size: 59272
 Filename: oe-alliance-branding-remote-evo6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26854,7 +26854,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: af5e400a87807e6dba425cadbc945507
+MD5Sum: 209ce7fbb1b75b55017338fee11ca432
 Size: 93840
 Filename: oe-alliance-branding-remote-evo7_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26868,8 +26868,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 45c83196eb80d862f62cb4f980340af5
-Size: 118004
+MD5Sum: 408bc15d3e1d4e68dcf2cc4566581645
+Size: 118008
 Filename: oe-alliance-branding-remote-evo8_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: evo8 (Additional remote for enigma2)
@@ -26882,8 +26882,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b7bc682af095158e20458cd44589f583
-Size: 36980
+MD5Sum: 86dec4b90a06a5b5bd34a5ce734ba7f5
+Size: 36976
 Filename: oe-alliance-branding-remote-formuler1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: formuler1 (Additional remote for enigma2)
@@ -26896,8 +26896,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 660714e6c69e64352838a371d858a6d2
-Size: 124134
+MD5Sum: c912cc6546923b0dcde1f2baa77c9803
+Size: 124116
 Filename: oe-alliance-branding-remote-fulan_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: fulan (Additional remote for enigma2)
@@ -26910,7 +26910,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 52a1a314c5b8a06917b4ce15cde3991c
+MD5Sum: 79c7a2988a2138716112a9a73ccff2c5
 Size: 60196
 Filename: oe-alliance-branding-remote-fusionhd_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26924,8 +26924,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: df78e8a93ee12c2ad9bca136d744812e
-Size: 35120
+MD5Sum: 5a4c5b215c27d8aa5fbf1750c0da53d5
+Size: 35114
 Filename: oe-alliance-branding-remote-g300_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: g300 (Additional remote for enigma2)
@@ -26938,8 +26938,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 8b517854cb5bc7cbb67c5d76579e2ed4
-Size: 27322
+MD5Sum: 77dae6d5b41a8202ae03adbb79aa35bb
+Size: 27318
 Filename: oe-alliance-branding-remote-gb0_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: gb0 (Additional remote for enigma2)
@@ -26952,8 +26952,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 6c8fc21feeaa445742f99bb9ac1f1d4c
-Size: 78510
+MD5Sum: c68525fb303a0c59a5491a5492e254d6
+Size: 78506
 Filename: oe-alliance-branding-remote-gb1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: gb1 (Additional remote for enigma2)
@@ -26966,8 +26966,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 49854d159cb9a904130e85782ed32921
-Size: 84114
+MD5Sum: 8c3faba536658c84a341d9aff1080cff
+Size: 84110
 Filename: oe-alliance-branding-remote-gb2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: gb2 (Additional remote for enigma2)
@@ -26980,7 +26980,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: a495d0160998a7263b74741ac03955ac
+MD5Sum: 58ad65f11fed6c05c127ec776c7a3158
 Size: 55994
 Filename: oe-alliance-branding-remote-gb3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -26994,7 +26994,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e319fe0232139300325b8a0172095413
+MD5Sum: 4d8d0b4aab64c7239321a75ac4b6eab9
 Size: 35302
 Filename: oe-alliance-branding-remote-gb4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27008,8 +27008,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 27eb8e98d173cc5b66298f23c3a59b97
-Size: 25722
+MD5Sum: 72ef15f4767a828d43c4c157d1315dcf
+Size: 25726
 Filename: oe-alliance-branding-remote-gi1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: gi1 (Additional remote for enigma2)
@@ -27022,7 +27022,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 5b832b1e9f4e3f45190f91142645f58b
+MD5Sum: 6ea1d4b419641323b3897313ac8360b2
 Size: 78028
 Filename: oe-alliance-branding-remote-hardkernel_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27036,8 +27036,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 53fcfa09bbb99fcffc3199313c3d58c9
-Size: 117528
+MD5Sum: 83fadca413b64c69194cc5473a34df32
+Size: 117534
 Filename: oe-alliance-branding-remote-hd1100_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: hd1100 (Additional remote for enigma2)
@@ -27050,7 +27050,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ae98c05c9f9ded7c0254f5c1d8fa8c79
+MD5Sum: 4b1203c3cd39135ab5feacec0ca3143c
 Size: 31930
 Filename: oe-alliance-branding-remote-hd2400_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27064,7 +27064,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 03264f41ee366ea311ca62b16319eb24
+MD5Sum: f779fa0aa177e7c94164588cf03d608a
 Size: 85030
 Filename: oe-alliance-branding-remote-hd530c_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27078,8 +27078,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 21145cad4bae6fb7ca0bac00c4d85097
-Size: 34388
+MD5Sum: 93dc71a82829fa3c65129e6a0b594959
+Size: 34392
 Filename: oe-alliance-branding-remote-hd60_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: hd60 (Additional remote for enigma2)
@@ -27092,8 +27092,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c9ac6f3bf1a17a6a46b12858d6933358
-Size: 13282
+MD5Sum: 3d78961b2f5f687c74eb384a71e7c7f0
+Size: 13286
 Filename: oe-alliance-branding-remote-hdbox_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: hdbox (Additional remote for enigma2)
@@ -27106,8 +27106,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: caf2e64a581974cc66aa246f749a868a
-Size: 45620
+MD5Sum: d00c39b4e7b8e588504f307ca71b6a35
+Size: 45626
 Filename: oe-alliance-branding-remote-hitube_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: hitube (Additional remote for enigma2)
@@ -27120,8 +27120,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 35e676fd2f1e8b457593a73cb8ff4af7
-Size: 14768
+MD5Sum: 2ce7c444e21cc2fa49c84fc1c4cf67ad
+Size: 14772
 Filename: oe-alliance-branding-remote-ini0_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini0 (Additional remote for enigma2)
@@ -27134,8 +27134,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d0672883db91321cf118d8d1297594e7
-Size: 13616
+MD5Sum: ef2ed4aeecafad59b68508e33a94969f
+Size: 13618
 Filename: oe-alliance-branding-remote-ini1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini1 (Additional remote for enigma2)
@@ -27148,8 +27148,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: fa2d8d51d76fb16d2add5e1895cf69a9
-Size: 50028
+MD5Sum: f3c98c20b3311fb674c82c5983e8b94d
+Size: 50026
 Filename: oe-alliance-branding-remote-ini2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini2 (Additional remote for enigma2)
@@ -27162,8 +27162,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e488d2db8824f718df63b1440026e292
-Size: 51240
+MD5Sum: 185dc8e7b950eb8751886910c18ee33c
+Size: 51238
 Filename: oe-alliance-branding-remote-ini3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini3 (Additional remote for enigma2)
@@ -27176,8 +27176,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 245010db3a8baef81174463f10d413a2
-Size: 53528
+MD5Sum: 35f6d7663f20e0de5ae4ebb44ccba2df
+Size: 53518
 Filename: oe-alliance-branding-remote-ini4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini4 (Additional remote for enigma2)
@@ -27190,8 +27190,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ec172f01a4bf58b697497c955263c31f
-Size: 60320
+MD5Sum: e28ce7e46b5fd8b4fe9d4fa9821bfb69
+Size: 60318
 Filename: oe-alliance-branding-remote-ini5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini5 (Additional remote for enigma2)
@@ -27204,8 +27204,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 67cf573d6300ed8e59b8884d39b2bf56
-Size: 67120
+MD5Sum: 52f7e10e37f1127f0f48c039d87959b8
+Size: 67122
 Filename: oe-alliance-branding-remote-ini6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini6 (Additional remote for enigma2)
@@ -27218,8 +27218,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b5ae63b8905a4f4132f2fe00a30c00c2
-Size: 72736
+MD5Sum: 80add13c8deb0e0db2f884fa0dfba5b2
+Size: 72738
 Filename: oe-alliance-branding-remote-ini7_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini7 (Additional remote for enigma2)
@@ -27232,8 +27232,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 144123539389242bb1e0da4ec826b705
-Size: 65736
+MD5Sum: 348be85ed859ac62699d81e3e02f291f
+Size: 65734
 Filename: oe-alliance-branding-remote-ini8_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ini8 (Additional remote for enigma2)
@@ -27246,8 +27246,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 4853bfd5f0229800945beffb51944691
-Size: 54536
+MD5Sum: 0e2d4ac8f76947fbda66faede9ee8bcf
+Size: 54540
 Filename: oe-alliance-branding-remote-iqon1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: iqon1 (Additional remote for enigma2)
@@ -27260,8 +27260,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 53756da4d2447c1d5f6c45cf10ef93f0
-Size: 43478
+MD5Sum: 1302167e04485048f2ee73a37050ee6e
+Size: 43480
 Filename: oe-alliance-branding-remote-iqon2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: iqon2 (Additional remote for enigma2)
@@ -27274,8 +27274,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 1de577efe7b450385919bba9541e2eba
-Size: 72374
+MD5Sum: 1b7d11de8e4147e34608d1e066fcedda
+Size: 72368
 Filename: oe-alliance-branding-remote-iqon3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: iqon3 (Additional remote for enigma2)
@@ -27288,8 +27288,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 3b6373aa42af49e6f5930899b18e8d25
-Size: 33440
+MD5Sum: 5222536e865693803f47b4ace92b33a9
+Size: 33448
 Filename: oe-alliance-branding-remote-ixussone_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ixussone (Additional remote for enigma2)
@@ -27302,8 +27302,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 4a87fb07f17954a52ae987e7fc40eef0
-Size: 26764
+MD5Sum: 91b6527b0bb6915f1a02f60dcc6c85ea
+Size: 26768
 Filename: oe-alliance-branding-remote-ixusszero_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: ixusszero (Additional remote for enigma2)
@@ -27316,8 +27316,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 704f49caf7a7de835b98b8ea8631285f
-Size: 40504
+MD5Sum: cb88d7d28fc22545e1d33d634c94b244
+Size: 40500
 Filename: oe-alliance-branding-remote-izibox1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: izibox1 (Additional remote for enigma2)
@@ -27330,8 +27330,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 65723bd16676f9e561fccd6c9fcb9c95
-Size: 40892
+MD5Sum: ac3dd480d702f66bfd2348d0179a8135
+Size: 40896
 Filename: oe-alliance-branding-remote-izibox2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: izibox2 (Additional remote for enigma2)
@@ -27344,8 +27344,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ecab17a92d5a02494b1f290c854f6df4
-Size: 44928
+MD5Sum: 7bf779246c8d9003dc98697f49269a81
+Size: 44894
 Filename: oe-alliance-branding-remote-jd1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: jd1 (Additional remote for enigma2)
@@ -27358,8 +27358,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 3600f5958a916b91321a478530176db2
-Size: 38310
+MD5Sum: 95ea07c4a0feb1750065275941da1a34
+Size: 38308
 Filename: oe-alliance-branding-remote-maxytec1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: maxytec1 (Additional remote for enigma2)
@@ -27372,8 +27372,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: e27014aee4480fa88875ed84085d4a16
-Size: 77510
+MD5Sum: b39920f1843e5dc550db71e579129811
+Size: 77532
 Filename: oe-alliance-branding-remote-mediabox4k_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: mediabox4k (Additional remote for enigma2)
@@ -27386,8 +27386,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 10c0e4972c261cfaaee347608181fe96
-Size: 42644
+MD5Sum: 2d7695c9990a9c1a2f9d1e5eeabd8051
+Size: 42650
 Filename: oe-alliance-branding-remote-mediabox_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: mediabox (Additional remote for enigma2)
@@ -27400,8 +27400,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: fe05289e593661af2681c5e6bff4624f
-Size: 52464
+MD5Sum: 75186144d5861335f3426233c17ce39f
+Size: 52458
 Filename: oe-alliance-branding-remote-megasat1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: megasat1 (Additional remote for enigma2)
@@ -27414,8 +27414,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 5b5b9c61beb06f5400b1d44cad15a63c
-Size: 59800
+MD5Sum: 690df2a3d5c1452532337c47ac46705a
+Size: 59802
 Filename: oe-alliance-branding-remote-megasat2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: megasat2 (Additional remote for enigma2)
@@ -27428,8 +27428,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c12a7f8e929ed9e0e057854b27c315ac
-Size: 42192
+MD5Sum: c916bb385385fdde481cfb77c34bf40b
+Size: 42196
 Filename: oe-alliance-branding-remote-miraclebox_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: miraclebox (Additional remote for enigma2)
@@ -27442,8 +27442,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 36c78e68d34b1aa7bba5bc481d73a333
-Size: 12842
+MD5Sum: c195845c523e1ee0293e60a235860b72
+Size: 12840
 Filename: oe-alliance-branding-remote-odinm6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: odinm6 (Additional remote for enigma2)
@@ -27456,8 +27456,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 5f5685d9bf407c1db6cbf7a868d66b9f
-Size: 15472
+MD5Sum: 34f41ba35f9541b17717aa396f65097f
+Size: 15476
 Filename: oe-alliance-branding-remote-odinm7_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: odinm7 (Additional remote for enigma2)
@@ -27470,7 +27470,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7ef29e6fe1fddf2dd8a4ecbb02f4d000
+MD5Sum: c7bb06ac136a95877fa492aacd8419fa
 Size: 25482
 Filename: oe-alliance-branding-remote-odinm9_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27484,7 +27484,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 93e2e65d24ddc6fcdd2a6a81db4a4982
+MD5Sum: 59cd981c0622910fd53015b90b3ff083
 Size: 43116
 Filename: oe-alliance-branding-remote-optimuss1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27498,8 +27498,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c39d4552c0b68f969ea66a3f9aa5b129
-Size: 101140
+MD5Sum: 548e8e9daa32c8620c0bb3136a14b329
+Size: 101132
 Filename: oe-alliance-branding-remote-optimuss2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: optimuss2 (Additional remote for enigma2)
@@ -27512,8 +27512,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 37edcf31545f947f6c3b932b9dee1823
-Size: 100270
+MD5Sum: ee6042a5b20b097f8ae3352f8df9b304
+Size: 100266
 Filename: oe-alliance-branding-remote-protek1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: protek1 (Additional remote for enigma2)
@@ -27526,7 +27526,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 77300bbc8baf4f22c634fa240475a97d
+MD5Sum: 5582862e6a9fb8de64e5a7e99bd884c3
 Size: 18958
 Filename: oe-alliance-branding-remote-protek2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27540,8 +27540,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 558794c707854391a1787d5946333021
-Size: 52746
+MD5Sum: d32271210ab8a0f48c63ad06929b3181
+Size: 52742
 Filename: oe-alliance-branding-remote-protek3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: protek3 (Additional remote for enigma2)
@@ -27554,8 +27554,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d9c66738d83f90bce00bf2abe280a744
-Size: 70848
+MD5Sum: 1688a6e22182bdc52681dfacacf26f8c
+Size: 70842
 Filename: oe-alliance-branding-remote-qviart1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: qviart1 (Additional remote for enigma2)
@@ -27568,8 +27568,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: bdffca84c9898de0554392cda6a5e434
-Size: 56112
+MD5Sum: ddea2f747019b1bdcd42f81ecf713044
+Size: 56110
 Filename: oe-alliance-branding-remote-qviart2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: qviart2 (Additional remote for enigma2)
@@ -27582,8 +27582,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d42b40f0f9ec1f5a1c07da025b36b31e
-Size: 28528
+MD5Sum: 1f0d8631be214cc4f387d1c91908e35c
+Size: 28530
 Filename: oe-alliance-branding-remote-qviart3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: qviart3 (Additional remote for enigma2)
@@ -27596,8 +27596,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 2d040243a97ec9d02932fe2924a41b20
-Size: 32812
+MD5Sum: a78988cb1d321f3d6e585d71eec44b5a
+Size: 32810
 Filename: oe-alliance-branding-remote-qviart4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: qviart4 (Additional remote for enigma2)
@@ -27610,8 +27610,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d384fbfd1a1bd76c3847fde3a4810f4c
-Size: 40720
+MD5Sum: 7ebb4ed2e9fc2ba9bbfcaad27ac731bd
+Size: 40718
 Filename: oe-alliance-branding-remote-red1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: red1 (Additional remote for enigma2)
@@ -27624,8 +27624,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d9ffa6b15c25a3cc18f53866fbcf0117
-Size: 18008
+MD5Sum: 66e230a099b28d0eed778e2a162f3d8e
+Size: 18006
 Filename: oe-alliance-branding-remote-red2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: red2 (Additional remote for enigma2)
@@ -27638,8 +27638,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b8b1a7f5fcb8199da563637c512a11fb
-Size: 13332
+MD5Sum: 7d87e8c360d04b906963236c489a7958
+Size: 13328
 Filename: oe-alliance-branding-remote-relook_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: relook (Additional remote for enigma2)
@@ -27652,7 +27652,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 44ac9dcab040df5455ea026d7d6d040a
+MD5Sum: 0fcec717f8c5609a39d1d3ddb76d600e
 Size: 71188
 Filename: oe-alliance-branding-remote-revo_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27666,7 +27666,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7b04bcaaed87c0a4f3aff3b8915957fb
+MD5Sum: e2d5f1f5907287fd301176a1bab6dda7
 Size: 87460
 Filename: oe-alliance-branding-remote-sab1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27680,8 +27680,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 305bf22d8375c7142e3ce5aa4bee4f37
-Size: 95454
+MD5Sum: 83707d3b8c23555a1b6514ac794056db
+Size: 95448
 Filename: oe-alliance-branding-remote-sf108_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: sf108 (Additional remote for enigma2)
@@ -27694,8 +27694,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7f5e9e48350b583b58f22fa345d6b6d5
-Size: 16310
+MD5Sum: f74d2a62c4c8cf19bbfb0f6de2cfe6d6
+Size: 16306
 Filename: oe-alliance-branding-remote-sf2x8_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: sf2x8 (Additional remote for enigma2)
@@ -27708,7 +27708,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b5da619c398e8ae2defac474ab1a133c
+MD5Sum: eb21f6ef29b03c2b7d7e172b7690fc7f
 Size: 84914
 Filename: oe-alliance-branding-remote-sf3038_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27722,7 +27722,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 8f893b6d6e85e3e3dbb48f3480cf0746
+MD5Sum: 2462c83776884c8ed235038a9a7e91c4
 Size: 31230
 Filename: oe-alliance-branding-remote-sf5008_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27736,7 +27736,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 0c8cc357638c0a45ab29e4fa27df7e6b
+MD5Sum: ba7267c37ff3f51fbc88fa919ece3093
 Size: 122282
 Filename: oe-alliance-branding-remote-sf8008_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27750,8 +27750,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b1e91b875b30801f9480b870e5b30f21
-Size: 105150
+MD5Sum: 43732c1af463bc89af34d011bdda9cb3
+Size: 105148
 Filename: oe-alliance-branding-remote-sf98_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: sf98 (Additional remote for enigma2)
@@ -27764,7 +27764,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: c25dd28e00abee31d049568c83f82cf3
+MD5Sum: 7923d3a280f09cd3d510fcdd3c8e41b6
 Size: 53804
 Filename: oe-alliance-branding-remote-sogno_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27778,8 +27778,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ff754eae4cfc26187f80c51cc0434a21
-Size: 38018
+MD5Sum: 026497ad89d0a8479753f1fb0d11a249
+Size: 38012
 Filename: oe-alliance-branding-remote-spycat1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: spycat1 (Additional remote for enigma2)
@@ -27792,7 +27792,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 21ac6f98019bc70c36251713a98132d4
+MD5Sum: 74e42f01083725156689b951a428934e
 Size: 69058
 Filename: oe-alliance-branding-remote-tiviar1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27806,8 +27806,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 451eb29654d9b4a53a0706a8abae7a5a
-Size: 97130
+MD5Sum: 31dfe78d96b30bd64ba95dff767fa1c3
+Size: 97138
 Filename: oe-alliance-branding-remote-tiviar2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: tiviar2 (Additional remote for enigma2)
@@ -27820,8 +27820,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 30f4ef2e95c00553ec32ece43e6bb07a
-Size: 37482
+MD5Sum: a0e3ba29e47244943454b8fb0bce07e2
+Size: 37486
 Filename: oe-alliance-branding-remote-tm1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: tm1 (Additional remote for enigma2)
@@ -27834,8 +27834,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 115888be62e20780a12c36d04d3c039b
-Size: 50130
+MD5Sum: 0953613ed9b79a3f1036021f5e704126
+Size: 50114
 Filename: oe-alliance-branding-remote-tm2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: tm2 (Additional remote for enigma2)
@@ -27848,7 +27848,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: ecf1d73e3831bdf102776f00dc9a97e8
+MD5Sum: 1fa56254b27fbc4b2c2b896488f87a73
 Size: 27350
 Filename: oe-alliance-branding-remote-tm3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27862,8 +27862,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 19423f8b6738f3ce0a1397fde0689638
-Size: 44306
+MD5Sum: 5da7e9368d8ac86682c4ee932348bad0
+Size: 44310
 Filename: oe-alliance-branding-remote-tm4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: tm4 (Additional remote for enigma2)
@@ -27876,7 +27876,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 287ecb98051d7ab3d7a71b011b9c2ff4
+MD5Sum: 5b78d4205b6b0e7158a222477bd5680b
 Size: 71606
 Filename: oe-alliance-branding-remote-tm5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27890,8 +27890,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: a0c0d5f890c5fabe9568922661cf6f46
-Size: 72934
+MD5Sum: 30972c38d5e3101893d21b243084bb00
+Size: 72938
 Filename: oe-alliance-branding-remote-tm6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: tm6 (Additional remote for enigma2)
@@ -27904,8 +27904,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 47e0fe1ef2f89cf93e5adeedbf6726ea
-Size: 35178
+MD5Sum: 7e13d09f502834d2158c5958bee1815e
+Size: 35182
 Filename: oe-alliance-branding-remote-triplex_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: triplex (Additional remote for enigma2)
@@ -27918,8 +27918,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: bf57112f7c8c4a23e8984f7a6523842e
-Size: 104336
+MD5Sum: 6c99e99bfbf11c692999dbcb7d520b3f
+Size: 104340
 Filename: oe-alliance-branding-remote-turing_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: turing (Additional remote for enigma2)
@@ -27932,7 +27932,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b784449dea4d4b960cc6a420c84ec62a
+MD5Sum: 22716d623716bb1357d8203fe8c10850
 Size: 14236
 Filename: oe-alliance-branding-remote-tyrant_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27946,8 +27946,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 6c11251e55f13aa465ecbb1e4fd20a02
-Size: 61620
+MD5Sum: da975407d4a40a9d12dae3067e7133f8
+Size: 61628
 Filename: oe-alliance-branding-remote-uclan_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: uclan (Additional remote for enigma2)
@@ -27960,8 +27960,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 7ed09962190d3e5f312ef1f030efd628
-Size: 55282
+MD5Sum: 492eaa72d8031f2ea8b9151ef09c3665
+Size: 55280
 Filename: oe-alliance-branding-remote-uniboxhde_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: uniboxhde (Additional remote for enigma2)
@@ -27974,7 +27974,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 717dce00b9964d4f0d1f970bb0d2e456
+MD5Sum: 99a438183981df975d294673c7ef8019
 Size: 58076
 Filename: oe-alliance-branding-remote-vala_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -27988,8 +27988,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 82c22eb0422e2456053e2d760e7d4f4b
-Size: 41072
+MD5Sum: d8a3a906d741b1e68e1b57a4a5ee2836
+Size: 41076
 Filename: oe-alliance-branding-remote-visionnet_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: visionnet (Additional remote for enigma2)
@@ -28002,8 +28002,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: cd2e08d9f06a3eea5ec3534b94baa35c
-Size: 47286
+MD5Sum: 919cfda5a25d13df2eb23d87c8b307e5
+Size: 47290
 Filename: oe-alliance-branding-remote-vu2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: vu2 (Additional remote for enigma2)
@@ -28016,8 +28016,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 0f13ccf1381bed9adfa21a1dfc1f7b21
-Size: 53386
+MD5Sum: 56dbcc660cfef16d25d7a477ea57e523
+Size: 53390
 Filename: oe-alliance-branding-remote-vu3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: vu3 (Additional remote for enigma2)
@@ -28030,8 +28030,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 79cd2fbd586a8750befa8526f74e68b7
-Size: 88664
+MD5Sum: 9693a3bf856c019bf4541d4d5f8ea518
+Size: 88666
 Filename: oe-alliance-branding-remote-vu4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: vu4 (Additional remote for enigma2)
@@ -28044,8 +28044,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: a0b347734c789716920051a7628fbe4c
-Size: 82654
+MD5Sum: fb014710516b8293f064ece24b779d53
+Size: 82658
 Filename: oe-alliance-branding-remote-vu_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: vu (Additional remote for enigma2)
@@ -28058,8 +28058,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 621876986e69c9c3de5218f971eed12a
-Size: 78036
+MD5Sum: 5d6a7f49725e38ead452bf1ebd5d389d
+Size: 78042
 Filename: oe-alliance-branding-remote-wetek2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: wetek2 (Additional remote for enigma2)
@@ -28072,8 +28072,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 8b894d16be609fd0275014946e1182e7
-Size: 81998
+MD5Sum: e925fa5d062b8b589b3d8b2dc51e0460
+Size: 81994
 Filename: oe-alliance-branding-remote-wetek3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: wetek3 (Additional remote for enigma2)
@@ -28086,7 +28086,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b9c3bd2f36331c425d177834f0870335
+MD5Sum: f2abf025f28ba8a93bddb2ff1c25b7f9
 Size: 103202
 Filename: oe-alliance-branding-remote-wetek_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -28100,8 +28100,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: fe5d919c4c28b0c5646e771bce5f8e51
-Size: 36026
+MD5Sum: 58d411a70d8cbe6a7d7b642ad1f65d51
+Size: 36030
 Filename: oe-alliance-branding-remote-wwio1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: wwio1 (Additional remote for enigma2)
@@ -28114,8 +28114,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b1b17db2a1e7a72d996bb9b3dd4f479e
-Size: 75232
+MD5Sum: f5b7577671d0a28506c278bd4b5e324c
+Size: 75234
 Filename: oe-alliance-branding-remote-xcore1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: xcore1 (Additional remote for enigma2)
@@ -28128,8 +28128,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 9128772dbe02f6c8c46272ef9f4a27b7
-Size: 53518
+MD5Sum: 4b713309138395a81b7b995691946c18
+Size: 53508
 Filename: oe-alliance-branding-remote-xcore2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: xcore2 (Additional remote for enigma2)
@@ -28142,8 +28142,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 5c905c11397844e6f3b138d0638376d7
-Size: 114546
+MD5Sum: ad9fe12a6d103d3d8c4afe01a219b744
+Size: 114544
 Filename: oe-alliance-branding-remote-xcore3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: xcore3 (Additional remote for enigma2)
@@ -28156,7 +28156,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: d89417202b4ab712d853f8bb493c162d
+MD5Sum: 254db8b88b212d2eb57ae75dcd15b4ce
 Size: 34142
 Filename: oe-alliance-branding-remote-xp1000_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -28170,8 +28170,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 937c42f8acd73d8638367d63a7a8e8bc
-Size: 121244
+MD5Sum: f9b0d9b033ee2d7ef48580772f8de351
+Size: 121246
 Filename: oe-alliance-branding-remote-zgemma1_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: zgemma1 (Additional remote for enigma2)
@@ -28184,7 +28184,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 82cf77526734ae01fc45bceb4d885c46
+MD5Sum: e3842feecf37f804f63234801d5b0beb
 Size: 63682
 Filename: oe-alliance-branding-remote-zgemma2_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -28198,8 +28198,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 706362aded1fcf9314fe3f28307d94c3
-Size: 90880
+MD5Sum: f7fbc5dbc46a351008bc961fd5e74299
+Size: 90904
 Filename: oe-alliance-branding-remote-zgemma3_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: zgemma3 (Additional remote for enigma2)
@@ -28212,8 +28212,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: feb81040041776d9fbc8860871d52425
-Size: 24956
+MD5Sum: 58d6f59bc092d0c403302b5ecb3e732c
+Size: 24952
 Filename: oe-alliance-branding-remote-zgemma4_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: zgemma4 (Additional remote for enigma2)
@@ -28226,7 +28226,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: bbb6420c70bc3cf19dca338bb211862c
+MD5Sum: 43551d6151219c99050693e636af778a
 Size: 121188
 Filename: oe-alliance-branding-remote-zgemma5_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -28240,8 +28240,8 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 1618ba035ffcc0a5676246a262adc5b8
-Size: 52640
+MD5Sum: ad6f1d6bd219ab7d69861a82eb6fc9e0
+Size: 52636
 Filename: oe-alliance-branding-remote-zgemma6_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
 Description: zgemma6 (Additional remote for enigma2)
@@ -28254,7 +28254,7 @@ Version: 4.4+git915+881d27a-r0
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: b926b9b4d4c948fad56331016cd7a100
+MD5Sum: 52cd2ae0753fb25f26a1c5980fd52a3a
 Size: 34148
 Filename: oe-alliance-branding-remote-zgemma7_4.4+git915+881d27a-r0_dm920.ipk
 Source: oe-alliance-branding-remote.bb
@@ -28264,30 +28264,30 @@ License: GPLv2+
 Priority: optional
 
 Package: oe-alliance-branding-src
-Version: 4.4+git915+881d27a-r20201221-dm920
+Version: 4.4+git915+881d27a-r20201222-dm920
 Section: devel
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: cd1d8c203f4fc47bfff31cbc037676b6
+MD5Sum: 2835b8cbf9f141b50f6f2e338fcaffeb
 Size: 3476
-Filename: oe-alliance-branding-src_4.4+git915+881d27a-r20201221-dm920_dm920.ipk
+Filename: oe-alliance-branding-src_4.4+git915+881d27a-r20201222-dm920_dm920.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201221-dm920 - Source files
+Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201222-dm920 - Source files
 OE: oe-alliance-branding
 License: GPLv2+
 Priority: optional
 
 Package: oe-alliance-branding
-Version: 4.4+git915+881d27a-r20201221-dm920
+Version: 4.4+git915+881d27a-r20201222-dm920
 Depends: libc6 (>= 2.30)
 Section: base
 Architecture: dm920
 Maintainer: oe-alliance team
-MD5Sum: 2e8739cff37b88faf0b9204308200e44
-Size: 202398
-Filename: oe-alliance-branding_4.4+git915+881d27a-r20201221-dm920_dm920.ipk
+MD5Sum: 938f12bb12e9cd20fef0b71e31941fef
+Size: 202436
+Filename: oe-alliance-branding_4.4+git915+881d27a-r20201222-dm920_dm920.ipk
 Source: oe-alliance-branding.bb
-Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201221-dm920
+Description: oe-alliance-branding version 4.4+gitAUTOINC+881d27ab29-r20201222-dm920
 OE: oe-alliance-branding
 License: GPLv2+
 Priority: optional
@@ -28342,7 +28342,7 @@ Recommends: aio-grab-dbg, bzip2-dbg, enigma2-dbg, enigma2-locale-meta-dbg, mtd-u
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f3c97e2b0b39ea10ff0a47c460df8192
+MD5Sum: ea780811a21b310f103653a43f0f3a70
 Size: 846
 Filename: oe-alliance-enigma2-dbg_4.4-r1_dm920.ipk
 Source: oe-alliance-enigma2.bb
@@ -28358,7 +28358,7 @@ Recommends: aio-grab-dev, bzip2-dev, enigma2-3rdparty-plugins-dev, enigma2-dev, 
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 86f8509782da15dde58ff998850064f9
+MD5Sum: b69488e6513b426f5d209b1f02498a92
 Size: 902
 Filename: oe-alliance-enigma2-dev_4.4-r1_dm920.ipk
 Source: oe-alliance-enigma2.bb
@@ -28374,8 +28374,8 @@ Recommends: enigma2-plugin-extensions-mediascanner, enigma2-plugin-extensions-op
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 161a5eb89899cf153206866ebb453bc2
-Size: 954
+MD5Sum: 621a79bebd364b0c77748aa6c6231c11
+Size: 956
 Filename: oe-alliance-enigma2_4.4-r1_dm920.ipk
 Source: oe-alliance-enigma2.bb
 Description: Merge machine and distro options to create a enigma2 machine task/package
@@ -28434,7 +28434,7 @@ Recommends: astra-sm-dbg, autofs-dbg, autossh-dbg, bdremux-dbg, binutils-dbg, bo
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 406aa0f0de534b7ecc56d024d8a46beb
+MD5Sum: f4dd46aeb40226db9498ea9c17027593
 Size: 1804
 Filename: oe-alliance-feeds-dbg_4.4-r6_dm920.ipk
 Source: oe-alliance-feeds.bb
@@ -28450,7 +28450,7 @@ Recommends: astra-sm-dev, autofs-dev, autossh-dev, bdremux-dev, binutils-dev, bo
 Section: devel
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 1b87f4ee76874687afe0ef85d8d277c2
+MD5Sum: 88ef1737cdd960e60d196bf858d81fa5
 Size: 1828
 Filename: oe-alliance-feeds-dev_4.4-r6_dm920.ipk
 Source: oe-alliance-feeds.bb
@@ -28465,8 +28465,8 @@ Depends: astra-sm, autofs, autossh, bdremux, binutils, bootlogos-enigma2-meta, c
 Section: base
 Architecture: dm920
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 888dd2893f206d11882c63b490900047
-Size: 1716
+MD5Sum: 3b97d5c2ec18ee2ba369cedc3c7122cf
+Size: 1714
 Filename: oe-alliance-feeds_4.4-r6_dm920.ipk
 Source: oe-alliance-feeds.bb
 Description: Merge machine and distro options to create a oe-alliance enigma2 feeds machine task/package
